@@ -22,7 +22,5 @@
     * How we code is as important as what we code
         * Should we follow this advice: 'Code as if the next person to view your code is a psychopath who knows where you live.' ['Head First Java']
         * NO! We shouldn’t code out of fear.
-        * We should coed out of love for for our community of coders, love for the planet, all its people and all its creatures and love what we do
+        * We should code out of love for for our community of coders, love for the planet, all its people and all its creatures and love what we do
     * לא יפגעו ולא יהרסו בכל הר קודשי
-    
-    [in Hebrew pls - Is. 11.9]
