@@ -1,0 +1,22 @@
+/* Reset Section */
+
+* {
+  box-sizing: border-box;
+}
+
+/* Accessibility Section */
+// Alternative styles of comment in CSS?
+// ?name of standard? recommendations
+
+// Should this be extended to other elements besides <p>?
+p {
+  line-height: 1.5;
+  font-size: 18px;
+}
+
+
+// Show urls in print media
+a[href^="http"]:after {
+  content: " (" attr(href) ")";
+}
+}
